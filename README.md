@@ -19,9 +19,6 @@ The Structure Generator is a web-based tool that allows you to easily generate f
 2. Click the "Generate" button to generate the folder \ link structure.
 3. The generated structure will be displayed below, ready for you to copy.
 
-## Installation
-
-No installation is required for the Structure Generator. Simply open the provided HTML file in your web browser, and you're ready to go.
 
 ## License
 
@@ -34,7 +31,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## Acknowledgments
 
 - This project was inspired by the need for a simple tool to generate folder \ link structures.
-- Special thanks to the contributors who have helped improve the functionality and user experience of this tool.
+
 
 ## Contact
 
